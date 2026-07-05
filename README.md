@@ -154,5 +154,3 @@ PowerShell
 ---
 
 
-- Wazuh Threat Hunting
-- Event Details
